@@ -1,0 +1,25 @@
+# Compile targets
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# IDE specific files
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+.vscode/
+.DS_Store
+
+# Log files
+*.log
+logs/
+
+# Local databases
+data/
+
+# Preparation / reading references (ignored for clean GitHub presentation)
+Preparation/
