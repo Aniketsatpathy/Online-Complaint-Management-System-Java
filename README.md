@@ -192,10 +192,19 @@ To avoid third-party DB setups for recruiters, the database resides in `/data/` 
 
 ## 🖼️ screenshots
 
-*Please take screens of the application and save them to the `/screenshots/` directory for GitHub display.*
-* **Login Panel**: Displays modern layout with demo shortcut login buttons.
-* **User Dashboard**: Shows complaint logging form and active ticket timeline.
-* **Admin Triage Panel**: Shows operations desk with filters and status transition controls.
+Here is the visual walkthrough of the application in action:
+
+### 1. Modern Login Screen (FlatLaf Dark Theme)
+![Login Page](screenshots/Login_Page.png)
+
+### 2. Standard User Dashboard (File new ticket)
+![User Dashboard](screenshots/Complaint_Registration_Dialog.png)
+
+### 3. Interactive Ticket Details & Comment Timeline
+![User Comments](screenshots/Complaint_details_Showcase.png)
+
+### 4. Admin operations control Desk & Filter Registry
+![Admin Operations](screenshots/Admin_Panel_Interface_%26_functionality.png)
 
 ---
 
